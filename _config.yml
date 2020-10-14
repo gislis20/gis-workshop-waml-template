@@ -58,3 +58,5 @@ footer_content: <a href="https://github.com/ubc-lib-geo/gis-workshop-waml-templa
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+theme: jekyll-theme-cayman
